@@ -1,0 +1,18 @@
+body{
+    background-color: rgba(0, 183, 255, 0.767);
+    font-family: 'Calibri', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 5px 5px 5px 5px;
+    
+}
+
+#box{
+    border-radius: 5px;
+    height: 20px;
+}
+
+#boxmsg{
+    border-radius: 5px;
+    height: 80px;
+}
